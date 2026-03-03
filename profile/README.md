@@ -178,7 +178,7 @@ Every tool, model, and framework produced by the OpenBWC initiative will be rele
 
 Because OpenBWC is a multi-disciplinary toolkit—ranging from high-level research interfaces to low-level systems code—we may utilize different licenses to best suit each component's use case:
 
-* **Core Logic & Frameworks:** Components like our pipeline will be licensed under the [MIT License](https://www.google.com/search?q=LICENSE), prioritizing maximum permissive reuse for the research community.
+* **Core Logic & Frameworks:** Components like our pipeline will be licensed under the [AGPL](https://www.google.com/search?q=LICENSE), prioritizing maximum permissive reuse for the research community.
 * **Infrastructure & Tooling:** Supporting tools, such as the **OpenBWC Project Guide** or **GroundTruth** annotation prototypes, may be released under licenses that encourage community contribution while protecting the integrity of the core research.
 * **Research Outputs:** While code is open-source, specific **Open Datasets** and **Peer-Reviewed Methodologies** will be released under appropriate open-access licenses (such as Creative Commons) that balance transparency with strict privacy and Institutional Review Board (IRB) protections.
 
